@@ -6,6 +6,6 @@
 - Favorite Anime: Code Geass
 - Favorite Programming Language: Javascript
 <p align="center">
-  <img src="https://i.stack.imgur.com/dAAK1.jpg" height=220px width=320px/>
+  <img src="https://i.stack.imgur.com/dAAK1.jpg" height=320px width=320px/>
 </p>
 
