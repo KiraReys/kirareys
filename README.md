@@ -8,8 +8,4 @@
 <p align="center">
   <img src="https://i.stack.imgur.com/dAAK1.jpg" height=220px width=320px/>
 </p>
-<style>
-  img {
-    border-radius: 25px;
-  }
-</style>
+
