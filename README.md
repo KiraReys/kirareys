@@ -9,7 +9,7 @@
   <li>Node</li>
   <li>C and other technologies!</li>
 </ul>
-[![Discord](https://img.shields.io/badge/Discord-Kira%20Reys%232749-blue?style=plastic&logo=discord.svg)](https://discord.com/)]
+<a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-Kira%20Reys%232749-blue?style=plastic&logo=discord.svg" /> </a>
 <h2><b>Instagram:</b> @kira.reys</h2> 
 - Favorite Food: Pizza ofc 
 - Favorite Anime: Code Geass
