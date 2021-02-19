@@ -9,8 +9,8 @@
   <li>Node</li>
   <li>C and other technologies!</li>
 </ul>
-## Discord: Kira Reys#2749 
-## Instagram: @kira.reys 
+<h2><b>Discord:</b> Kira Reys#2749</h2> 
+<h2><b>Instagram:</b> @kira.reys</h2> 
 - Favorite Food: Pizza ofc 
 - Favorite Anime: Code Geass
 - Favorite Programming Language: Javascript
