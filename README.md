@@ -1,5 +1,5 @@
 # Hi, I am Kira Reys😁.
-## Full Stack Developer (trying to be)
+## Full Stack Developer and Bug Hunter (trying to be)
 <ul>
   <li>ReactJs</li>
   <li>Go</li>
