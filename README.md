@@ -6,7 +6,7 @@
   <li>JavaScript</li>
   <li>ES6</li>
   <li>Figma</li>
-  <li>Node</li>
+  <li>Node.js</li>
   <li>C and other technologies!</li>
 </ul>
 <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-Kira%20Reys%232749-blue?style=plastic&logo=discord.svg" /> </a>
