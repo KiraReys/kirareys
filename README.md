@@ -16,5 +16,5 @@
 * Favorite Anime: Code Geass
 * Favorite Programming Language: Javascript
 
-<a href="https://hackerone.com/0x6964696f74"><img class="h1" src="https://www.zdnet.de/wp-content/uploads/2019/12/HackerOne.png" width=50px height=50px/></a>
+<a href="https://hackerone.com/0x6964696f74"><img class="h1" src="https://www.zdnet.de/wp-content/uploads/2019/12/HackerOne.png" width=150px height=50px/></a>
 
