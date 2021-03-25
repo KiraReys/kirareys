@@ -1,5 +1,5 @@
 # Hi, I am Kira Reys😁
-## Full Stack Developer (not rly, more like frontend) and Bug Hunter
+## Full Stack Developer and Bug Hunter
 <ul>
   <li>ReactJs</li>
   <li>Go</li>
@@ -16,5 +16,5 @@
 * Favorite Anime: Code Geass
 * Favorite Programming Language: Javascript
 
-
+<a href="https://hackerone.com/0x6964696f74"><img src="https://res-1.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/dgsrzgjf4paklpbom6uj" width=80px height=80px/></a>
 
