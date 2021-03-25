@@ -19,6 +19,6 @@
 
 <a href="https://hackerone.com/0x6964696f74"><img src="https://www.zdnet.de/wp-content/uploads/2019/12/HackerOne.png" width=75px height=50px/></a>
 <a href="https://bugcrowd.com/KiraReys7"><img src="https://blog.1password.com/posts/2017/more-than-just-a-penny-for-your-thoughts-100000-top-bounty/bugcrowd-logo.jpg" width=75px height=50px/></a>
-<a href="https://twitter.com/ArikSyer"><img src="https://epravo.ba/wp-content/uploads/2016/02/ePravo.ba-Twitter.jpg" width=75px height=50px/></a>
+<a href="https://twitter.com/ArikSyer"><img src="https://www.miamidade.gov/resources/images/departments/communications/twitter.png" width=75px height=50px/></a>
 
 
