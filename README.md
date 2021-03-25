@@ -12,7 +12,7 @@
 <h2>I am mostly active here:</h2>
 <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-Kira%20Reys%232749-blue?style=plastic&logo=discord.svg" /> </a>
 <a href="https://instagram.com/kira.reys"><img src="https://img.shields.io/badge/Instagram-Kira%20Reys-purple?style=plastic&logo=instagram"/> </a>
-
+</br>
 * Favorite Food: Pizza ofc 
 * Favorite Anime: Code Geass
 * Favorite Programming Language: Javascript
