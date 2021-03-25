@@ -1,4 +1,4 @@
-# Hi, I am Kira Reys😁
+# Hi, I am Kira Reys 🦊
 ## Full Stack Developer and Bug Hunter
 <ul>
   <li>ReactJs</li>
@@ -16,5 +16,7 @@
 * Favorite Anime: Code Geass
 * Favorite Programming Language: Javascript
 
-<a href="https://hackerone.com/0x6964696f74"><img class="h1" src="https://www.zdnet.de/wp-content/uploads/2019/12/HackerOne.png" width=75px height=50px/></a>
+<a href="https://hackerone.com/0x6964696f74"><img src="https://www.zdnet.de/wp-content/uploads/2019/12/HackerOne.png" width=75px height=50px/></a>
+<a href="https://bugcrowd.com/KiraReys7"><img src="https://blog.1password.com/posts/2017/more-than-just-a-penny-for-your-thoughts-100000-top-bounty/bugcrowd-logo.jpg" width=75px height=50px/></a>
+
 
