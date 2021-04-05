@@ -5,7 +5,6 @@
   <li>Go</li>
   <li>JavaScript</li>
   <li>ES6</li>
-  <li>Figma</li>
   <li>Node.js</li>
   <li>C and other technologies!</li>
 </ul>
