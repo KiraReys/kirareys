@@ -1,4 +1,4 @@
-# Hi, I am Kira Reys 🦊
+# Yo, I am Kira Reys 
 ## Dev and Bug Hunter
 <ul>
   <li>ReactJs</li>
