@@ -4,7 +4,7 @@
   <li>ReactJs</li>
   <li>Go</li>
   <li>JavaScript</li>
-  <li>ES6</li>
+  <li>Python</li>
   <li>Node.js</li>
   <li>C and other technologies!</li>
 </ul>
