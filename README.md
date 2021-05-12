@@ -1,7 +1,6 @@
-# Yo, I am Kira Reys 
+# Hello, I am Kira Reys 
 ## Dev and Bug Hunter
 <ul>
-  <li>ReactJs</li>
   <li>Go</li>
   <li>JavaScript</li>
   <li>Python</li>
