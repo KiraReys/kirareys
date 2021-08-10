@@ -1,6 +1,5 @@
 ## Hello, I'm Kira Reys 
 <li> Dev 💻 </li>
-<li> Anime Lover 🤩 </li> 
 <li> Bug Hunter 🔫 </li>
 <li> Web 🐱‍💻</li> <br>
 <br>
