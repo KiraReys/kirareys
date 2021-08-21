@@ -7,11 +7,11 @@ Biography
 */
 
 func kirareys() {
-	const name = "Kira Reys"
-	const age = 16
-	const hobby = "Developing BugHunting Eating :)"
-	const country = "Serbia, Bosnia & Germany"
-	fmt.Println(name, age, hobby, country)
+	const name = "Kira Reys" <br>
+	const age = 16 <br>
+	const hobby = "Developing BugHunting Eating :)" <br>
+	const country = "Serbia, Bosnia & Germany" <br>
+	fmt.Println(name, age, hobby, country) <br>
 }
 
 func main() {
