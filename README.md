@@ -1,4 +1,4 @@
-package main
+<pre>package main
 
 import "fmt"
 
@@ -17,6 +17,7 @@ func kirareys() { <br>
 func main() { <br>
 	kirareys() <br>
 }
+</pre>
 <br>
 <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-Kira%20Reys%232749-blue?style=plastic&logo=discord.svg" /> </a>
 <a href="https://instagram.com/kira.reys"><img src="https://img.shields.io/badge/Instagram-Kira%20Reys-purple?style=plastic&logo=instagram"/> </a>
