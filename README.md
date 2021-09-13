@@ -10,7 +10,7 @@ func kirareys() { <br>
 	const name = "Kira Reys" <br>
 	const age = 16 <br>
 	const hobby = "Developing BugHunting Eating :)" <br>
-	const country = "Serbia, Bosnia & Germany" <br>
+	const country = "Yugoslavia & Germany" <br>
 	fmt.Println(name, age, hobby, country) <br>
 }
 
