@@ -8,7 +8,7 @@ Biography
 
 func kirareys() { <br>
 	const name = "Kira Reys" <br>
-	const age = 16 <br>
+	const age = 17 <br>
 	const hobby = "Developing BugHunting Eating :)" <br>
 	const country = "Yugoslavia & Germany" <br>
 	fmt.Println(name, age, hobby, country) <br>
